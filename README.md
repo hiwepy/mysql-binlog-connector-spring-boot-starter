@@ -1,4 +1,4 @@
-# canal-spring-boot-starter
+# mysql-binlog-connector-spring-boot-starter
 
 #### 组件简介
 
